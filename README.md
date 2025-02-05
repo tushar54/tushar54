@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="205" src="https://i.ibb.co.com/ZGcqjCc/A-Front-End-Dev-1.png"  />
+  <img height="205" src="https://i.ibb.co.com/1YXTzcsN/github-header-image.png"  />
 </div>
 
 ###
@@ -16,11 +16,18 @@
 
 ###
 
-<h4 align="left">My name is Tushar, and I’m from Dhaka, Bangladesh. I specialize in creating beautiful websites. While I primarily focus on frontend development, I have some experience with backend technologies like Node.js and MongoDB.</h4>
+<h4 align="left">My name is Tushar, and I’m from Dhaka, Bangladesh. I specialize in creating beautiful websites. While I primarily focus on frontend development, I have some experience with backend technologies like Node.js and MongoDB.  I am very punctual, and I believe no one is perfect. However, I can grab the core of any concept or task</h4>
 
 ###
 
 <h4 align="left">✨ Creating bugs since 2023<br>📚 I'm currently seeking job and learning <br>🎯 Goals: I am passionate about learning and continuously exploring areas that interest me.<br>🎲 Fun fact: I loved playing cricket chess etc..</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar54&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar54&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
